@@ -1,4 +1,4 @@
-#!/bin/python
+#!usr/bin/env python
 
 from urllib.request import urlretrieve
 import re
@@ -12,8 +12,8 @@ class GenPhilDownloader:
         self.ext = ext
 
     def show_progress(self, block_num, block_size, total_size):
-        progress= int(round(block_num * block_size / total_size *100,2))
-        print(f"{progress}% {"=" * progress}>{" " * (100-progress)}|", end="\r")
+        progress= int(round(((block_num * block_size) / total_size) * 100, 2))
+        print(f"{progress}% {"=" * (progress//4)}>{" " * (25-(progress//4))}|", end="\r")
         sys.stdout.flush()
 
     def mkdir(self, type):
