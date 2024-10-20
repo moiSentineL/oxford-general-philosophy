@@ -5,6 +5,33 @@ The course is available [online](https://podcasts.ox.ac.uk/series/general-philos
 
 This is where you can download the lectures, slides and handouts for offline use. 
 
+## Usage
+
+Clone the repo:
+
+```bash
+git clone https://github.com/moiSentineL/oxford-general-philosophy-2009.git
+cd oxford-general-philosophy-2009
+```
+
+Run the python file with appropriate arguments:
+
+```bash
+python download.py [lectures/slides]
+```
+
+(choose `lectures` if you want to download lectures or choose `slides` if you want to download slides)
+
+It will output something like this:
+
+```bash
+❯ python download.py slides
+
+Downloading lectures...
+General Philosophy Lecture 1
+75% =====================>    |
+```
+
 ## Course Content
 Taken from Peter Millican's [website](https://www.millican.org/genphil.htm) itself:
 
