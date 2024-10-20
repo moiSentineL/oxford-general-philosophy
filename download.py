@@ -43,7 +43,7 @@ if __name__ == "__main__":
         print("Downloading lectures...")
         GenPhilDownloader("lectures.txt", ".mp4").mkdir("lectures")
     elif args.content == "slides":
-        print("Downloading lectures...")
+        print("Downloading slides...")
         GenPhilDownloader("slides.txt", ".pdf").mkdir("slides")
     else:
         print("Please choose a correct option (lectures/slides)")
