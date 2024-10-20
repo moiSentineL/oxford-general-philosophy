@@ -27,7 +27,7 @@ It will output something like this:
 ```bash
 ❯ python download.py slides
 
-Downloading lectures...
+Downloading slides...
 General Philosophy Lecture 1
 75% =====================>    |
 ```
