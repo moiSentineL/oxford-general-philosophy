@@ -1,0 +1,8 @@
+http://media.podcasts.ox.ac.uk/philfac/general_philosophy/1_millican_slides.pdf ;General Philosophy Lecture 1
+http://media.podcasts.ox.ac.uk/philfac/general_philosophy/2_millican_slides.pdf ;General Philosophy Lecture 2
+http://media.podcasts.ox.ac.uk/philfac/general_philosophy/3_millican_slides.pdf ;General Philosophy Lecture 3
+http://media.podcasts.ox.ac.uk/philfac/general_philosophy/4_millican_slides.pdf ;General Philosophy Lecture 4
+http://media.podcasts.ox.ac.uk/philfac/general_philosophy/5_millican_slides.pdf ;General Philosophy Lecture 5
+http://media.podcasts.ox.ac.uk/philfac/general_philosophy/6_millican_slides.pdf ;General Philosophy Lecture 6
+http://media.podcasts.ox.ac.uk/philfac/general_philosophy/7_millican_slides.pdf ;General Philosophy Lecture 7
+http://media.podcasts.ox.ac.uk/philfac/general_philosophy/8_millican_slides.pdf ;General Philosophy Lecture 8
