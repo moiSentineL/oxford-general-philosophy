@@ -1,0 +1,33 @@
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/1_1_millican.mp4 ;1.1 An Introduction to General Philosophy 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/1_2_millican.mp4 ;1.2 The Background of Early Modern Philosophy 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/1_3_millican.mp4 ;1.3 Science from Aristotle to Galileo 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/1_4_millican.mp4 ;1.4 From Galileo to Descartes 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/2_1_millican.mp4 ;2.1 Recap of General Philosophy Lecture 1 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/2_2_millican.mp4 ;2.2 Thomas Hobbes: The Monster of Malmesbury 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/2_3_millican.mp4 ;2.3 Robert Boyle and Isaac Newton 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/2_4_millican.mp4 ;2.4 John Locke 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/2_5_millican.mp4 ;2.5 Nicolas Malebranche and George Berkeley 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/2_6_millican.mp4 ;2.6 David Hume 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/2_7_millican.mp4 ;2.7 Overview: Kant and Modern Science 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/3_1_millican.mp4 ;3.1 Hume's Argument Concerning Induction 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/3_2_millican.mp4 ;3.2 Responses to Hume's Famous Argument 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/4_1_millican.mp4 ;4.1 Scepticism about the External World 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/4_2_millican.mp4 ;4.2 Possible Answers to External World Scepticism 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/4_3_millican.mp4 ;4.3 Cartesian Dualism 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/4_4_millican.mp4 ;4.4 The Mind-Body Problem 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/5_1_millican.mp4 ;5.1 Introduction to Knowledge 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/5_2_millican.mp4 ;5.2 The Traditional Analysis of Knowledge 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/5_3_millican.mp4 ;5.3 Gettier and Other Complications 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/5_4_millican.mp4 ;5.4 Scepticism, Externalism and the Ethics of Belief 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/6_1_millican.mp4 ;6.1 Introduction to Primary and Secondary Qualities 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/6_2_millican.mp4 ;6.2 Problems with Resemblance 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/6_3_millican.mp4 ;6.3 Abstraction and Idealism 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/6_4_millican.mp4 ;6.4 Making Sense of Perception 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/7_1_millican.mp4 ;7.1 Free Will, Determinism and Choice 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/7_2_millican.mp4 ;7.2 Different Concepts of Freedom 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/7_3_millican.mp4 ;7.3 Hume on Liberty and Necessity 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/7_4_millican.mp4 ;7.4 Making Sense of Free Will and Moral Responsibility 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/8_1_millican.mp4 ;8.1 Introduction to Personal Identity 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/8_2_millican.mp4 ;8.2 John Locke on Personal Identity 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/8_3_millican.mp4 ;8.3 Problems for Locke's View of Personal Identity 
+https://media.podcasts.ox.ac.uk/philfac/general_philosophy/8_4_millican.mp4 ;8.4 Persons, Humans and Brains 
